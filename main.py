@@ -5,7 +5,7 @@ st.set_page_config(
     page_icon="images\Original.png",
     layout="centered",
 )
-st.page_link("main.py", label="Home", icon="🏠")
+st.s.page_link("main.py", label="Home", icon="🏠")
 
 st.title("Decembaek Library")
 
